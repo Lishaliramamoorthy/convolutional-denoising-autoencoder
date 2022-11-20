@@ -29,6 +29,10 @@ Compile and fit the created model.
 Display the Original, Noisy and Reconstructed Image.
 
 ## PROGRAM
+
+
+### Name   : Lishali.R
+### Reg no :212220230028 
 ```
 from tensorflow import keras
 from tensorflow.keras import layers
